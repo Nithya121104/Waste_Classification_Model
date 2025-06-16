@@ -1,0 +1,6 @@
+0 Paper
+1 Plastic
+2 Biological
+3 Glass
+4 Metal
+5 Nothing
